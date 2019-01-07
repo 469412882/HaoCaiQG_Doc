@@ -803,7 +803,7 @@
 
 .field public static final Widget_Design_TextInputLayout:I = 0x7f0d018a
 
-.field public static final z_p_MyDialog:I = 0x7f0d018b
+.field public static final z_p_MyDialog:I = 0x7f0df18b
 
 
 # direct methods

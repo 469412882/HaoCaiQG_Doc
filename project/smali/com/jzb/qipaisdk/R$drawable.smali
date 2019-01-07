@@ -227,7 +227,7 @@
 
 .field public static final tooltip_frame_light:I = 0x7f070070
 
-.field public static final z_p_download_bg:I = 0x7f070071
+.field public static final z_p_download_bg:I = 0x7f07f078
 
 
 # direct methods
